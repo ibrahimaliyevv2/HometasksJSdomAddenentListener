@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mail-adress{
+    padding-top: 8px;
+}
+
+.mail-adress a i{
+    color: orangered;
+}
+
+.mail-adress a{
+    text-decoration: none;
+    color: white;
+}
+
+.mail-adress a:hover{
+    color: orangered;
+}
+
+.location-adress a{
+    text-decoration: none;
+    color: white;
+}
+
+.location-adress a i{
+    color: orangered;
+}
+
+.location-adress a:hover{
+    color: orangered;
+}
+
+.social-media a{
+    text-decoration: none;
+    color: white;
+}
+
+.social-media a i{
+    font-size: 17px;
+    padding-left: 5px;
+}
+
+.social-media a:hover{
+    color:white;
+}
+
+.list-add-button button{ 
+    padding:10px;
+    color:white;
+    background-color: orangered;
+    border: transparent;
+}
+
+.list-add-button button:hover{
+    background-color:rgb(211, 56, 0);
+}
+
+.location-adress{
+    padding-left: 25px;
+    padding-top: 8px;
+}
+
+.social-media{
+    padding-right: 25px;
+    padding-top: 8px;
+}
+
+.nav-second .logo-second{
+    padding-left: 20px;
+}
+
+.nav-second .menu-icons{
+    padding-right: 20px;
+}
+
+.nav-second .menu-icons a{
+    text-decoration: none;
+    color:black;
+    padding: 15px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid transparent;
+}
+
+.menu-icons .icon-need{
+    display: inline-block;
+}
+
+.nav-second .menu-icons .icon-need a:hover{
+    background-color: orangered;
+    color:white;
+}
+
+.nav-item a{
+    color:black;
+    font-size: 20px;
+}
+
+.nav-item a:hover{
+    color:orangered;
+}
+
+.navbar{
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}

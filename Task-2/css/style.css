@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.leftbar{
+    position: absolute;
+    left: -104px;
+    transition: .5s;
+}
+
+.text{
+    font-size:18px;
+    text-indent: 15px;
+    margin-left: 20px;
+
+}
+
+.navbar button{
+    padding: 10px;
+    margin-left: 20px;
+    color:white;
+    background-color: rgb(0, 0, 255);
+    border-color: transparent;
+    border-radius: 10px;
+}
